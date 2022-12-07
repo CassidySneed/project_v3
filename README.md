@@ -1,3 +1,6 @@
-# project_v3
+# Birthday Finder
+###### Hey
 
-# Hey 
+# What is it?
+
+# How to use it?
